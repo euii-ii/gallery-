@@ -27,7 +27,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone 
+git clone https://github.com/euii-ii/gallery-.git
 cd rotating-gallery
 
 Open in Browser
